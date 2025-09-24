@@ -1,0 +1,30 @@
+# Core Python libraries
+numpy>=1.25
+torch>=2.1.0
+
+# Gradio for UI
+gradio>=3.45
+
+# Audio handling
+soundfile>=0.12.1
+
+# Text-to-Speech
+TTS>=0.14.0
+coqui-tts>=0.14.0
+
+# Whisper for speech recognition
+faster-whisper>=0.8.0
+
+# LangChain + Ollama LLM
+langchain>=0.1.0
+langchain_ollama>=0.1.3
+
+# FAISS for vector embeddings (RAG)
+faiss-cpu>=1.7.4
+
+# Sentence Transformers for embeddings (Granite)
+sentence-transformers>=2.2.2
+
+# Optional: for caching, threading, and utilities
+requests>=2.31
+pydantic>=2.6
