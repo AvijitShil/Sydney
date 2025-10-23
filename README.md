@@ -1,8 +1,8 @@
-# 🩺 Sydney – The Ultimate Offline AI Medical Assistant
+# 🩺 Sydney – The Ultimate Local (Offline) AI Medical Assistant
 
 ![Sydney](https://img.shields.io/badge/status-Alpha-yellow)
 
-**Sydney** is an **advanced multimodal AI assistant** capable of **understanding text and voice**, delivering **highly accurate, context-aware medical guidance**, and working **fully offline with CPU optimization**. Powered by **Gemma 3 !B, Glow-TTS, Whisper, LangChain LLMs, and the Granite 47M R2 embedding model**, Sydney merges **retrieval-augmented generation (RAG)**, **conversation memory**, and **multimodal interaction** to provide **rapid, reliable responses**.
+**Sydney** is an **advanced multimodal Local (offline) AI assistant** capable of **understanding text and voice**, delivering **highly accurate, context-aware medical guidance**, and working **fully offline with CPU optimization**. Powered by **Gemma 3 !B, Glow-TTS, Whisper, LangChain LLMs, and the Granite 47M R2 embedding model**, Sydney merges **retrieval-augmented generation (RAG)**, **conversation memory**, and **multimodal interaction** to provide **rapid, reliable responses**.
 
 ⚠️ **Medical Disclaimer:** Sydney is **not a substitute for professional medical advice**. For emergencies, always contact certified healthcare providers.
 
@@ -320,5 +320,6 @@ sydney/
 Sydney is **not just an assistant—it’s an offline, multimodal AI medical companion**, capable of **massive-scale problem solving** while preserving **privacy, speed, and accuracy**.
 
 ---
+
 
 
